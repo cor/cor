@@ -1,4 +1,4 @@
-### Cor
+# CorCoder
 Check out my portfolio website at [corcoder.com](https://corcoder.com).
 
 <!--
