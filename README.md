@@ -1,4 +1,5 @@
-### Hi there 👋
+### Cor
+Check out my portfolio website at [corcoder.com](https://corcoder.com).
 
 <!--
 **cor/cor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
