@@ -1,5 +1,5 @@
-# CorCoder
-Check out my portfolio website at [corcoder.com](https://corcoder.com).
+# Cor Pruijs
+Check out my portfolio website at [pruijs.dev](https://pruijs.dev).
 
 <!--
 **cor/cor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
